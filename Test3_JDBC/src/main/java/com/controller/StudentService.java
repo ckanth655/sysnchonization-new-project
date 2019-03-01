@@ -19,6 +19,5 @@ public class StudentService {
 		List<Student> students=new ArrayList<>();
 		studentRepositary.findAll().forEach(students::add);
 		return students;
-	}
-	
+	}	
 }
