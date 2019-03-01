@@ -29,4 +29,7 @@ public class SpringBootJDBC {
 		return modelAndView;
 	}
 	
+	public void method2(){
+		
+	}
 }
