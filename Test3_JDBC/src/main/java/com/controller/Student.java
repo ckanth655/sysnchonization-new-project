@@ -6,6 +6,7 @@ import javax.persistence.Id;
 @Entity
 public class Student {
 	//student comment in git
+	//student comment in git
 	@Id
 	private int id;
 	private String name;
